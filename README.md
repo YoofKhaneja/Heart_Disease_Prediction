@@ -7,3 +7,4 @@ https://www.kaggle.com/neisha/heart-disease-prediction-using-logistic-regression
 ## Work done so far:
 ### Data exploration and Logistic Regression
 ### Simple Neural Network
+### Siamese Network for Discriminative Learning
